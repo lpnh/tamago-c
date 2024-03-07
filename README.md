@@ -1,4 +1,4 @@
 # tamago-c UwU
 
-my kawaii pwoject to weawn the c wanguage desu wa
+My kawaii pwoject to weawn the C pwogwamming wanguage desu wa
 
